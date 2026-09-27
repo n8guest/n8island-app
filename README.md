@@ -98,7 +98,8 @@ download and update tallies. Details: [n8island.com/privacy](https://n8island.co
 ## Support
 
 Found a bug or have a request? [Open an issue](../../issues). Please include your
-macOS version and the N8Island version from **Settings › About**.
+macOS version and the N8Island version (select N8Island in Applications and
+choose **File › Get Info**).
 
 ## About this repository
 
